@@ -23,4 +23,3 @@ The following **optional** features are implemented:
 - [ ] **Improve and customize the user interface through styling and coloring**
 - [ ] **Implement orientation responsivity**
 - [ ] **Add a daily photo feature**
-
